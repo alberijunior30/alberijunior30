@@ -2,5 +2,5 @@
 
 <div align="center"><br>
 
-  [![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=python,cpp)](https://skillicons.dev)
 </div>
