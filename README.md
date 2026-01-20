@@ -1,4 +1,4 @@
-<h2>Olá, meu nome é Alberi Júnior</h2>
+<h2 align="center">Olá, meu nome é Alberi Júnior</h2>
 <div align="center">
 
   ![Alberi GitHub stats](https://github-readme-stats.vercel.app/api?username=alberijunior30&rank_icon=github&show_icons=true&theme=codeSTACKr)
