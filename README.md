@@ -7,7 +7,7 @@
 
 <div align="center"><br>
 
-  [![My Skills](https://skillicons.dev/icons?i=python,cpp,fastapi,docker)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=python,cpp,fastapi,github,docker)](https://skillicons.dev)
 </div>
 
 <div align="center">
