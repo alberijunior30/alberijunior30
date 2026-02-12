@@ -5,12 +5,8 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/alberijunior30">
-    <img alt="Alberi GitHub stats" src="https://github-readme-stats.vercel.app/api?username=alberijunior30&show_icons=true&theme=dark&include_all_commits=true" />
-  </a>
-  <a href="https://github.com/alberijunior30">
-    <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alberijunior30&layout=compact&theme=codeSTACKr&hide=html,css" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=alberijunior30&show_icons=true&theme=dark&include_all_commits=true" alt="Alberi GitHub stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alberijunior30&layout=compact&theme=codeSTACKr&hide=html,css" alt="Top Langs" height="150" />
 </p>
 
 <div align="center">
@@ -23,9 +19,9 @@
 <div align="center">
   <br>
   <a href="mailto:antonio.junior01@outlook.com" target="_blank">
-    <img alt="Email" src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
+    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/alberi-júnior/" target="_blank">
-    <img alt="Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" />
   </a>
 </div>
