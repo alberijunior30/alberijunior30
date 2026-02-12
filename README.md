@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" width="80px" alt="GitHub Readme Stats" />
+  <img src="https://skillicons.dev/icons?i=htmx"/>
   <h1>Olá, meu nome é Alberi Júnior</h1>
   <p>Estudante de Engenharia de Computação no IFCE | Desenvolvedor Backend</p>
 </div>
