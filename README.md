@@ -1,7 +1,7 @@
 <h2 align="center">Olá, meu nome é Alberi Júnior</h2>
 <div align="center">
 
-  ![Alberi GitHub stats](https://github-readme-stats.vercel.app/api?username=alberijunior30&rank_icon=github&show_icons=true&theme=codeSTACKr)
+  ![Alberi GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra\&show_icons=true\&theme=dark#gh-dark-mode-only)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alberijunior30&layout=compact&height=700px&theme=codeSTACKr)
 </div>
 
