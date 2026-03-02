@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alberijunior30&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Alberi GitHub stats" height="170" />
+  <img height="180em" src="https://github-readme-stats-kappa-azure-61.vercel.app/api?username=alberijunior30&show_icons=true&theme=dracula&rank_icon=github&include_all_commits=true" alt="Alberi's GitHub Stats" />
   <img
   height="180"
   src="https://github-readme-stats-eight-nu-11.vercel.app/api/top-langs?username=alberijunior30&theme=tokyonight&layout=compact&langs_count=9"
