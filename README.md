@@ -6,8 +6,11 @@
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats-kappa-azure-61.vercel.app/api?username=alberijunior30&show_icons=true&theme=dracula&rank_icon=github&include_all_commits=true" alt="Alberi's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats-eight-nu-11.vercel.app/api/top-langs?username=alberijunior30&theme=tokyonight&layout=compact&langs_count=9"
-/>
+  <img height="180em" src="https://github-readme-stats-eight-nu-11.vercel.app/api/top-langs?username=alberijunior30&theme=tokyonight&layout=compact&langs_count=9" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alberijunior30&theme=dracula&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <div align="center">
