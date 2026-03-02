@@ -18,6 +18,10 @@
 </div>
 
 <div align="center">
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=100&section=footer" width="100%"/>
+</div>
   
   <br>
   <a href="mailto:antonio.junior01@outlook.com">
