@@ -16,7 +16,7 @@
 <div align="center">
   <br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,cpp,fastapi,github,docker,git" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=python,cpp,fastapi,github,docker,git,javascript,react,tailwind" alt="My Skills" />
   </a>
 </div>
 
