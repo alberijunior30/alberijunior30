@@ -1,0 +1,29 @@
+name: Generate Wave Commits
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: VuxDucGiang/wave@main
+        with:
+          github_user_name: 'alberijunior30'
+          output_path: 'profile/wave-commits.svg'
+          color_palette: 'ocean'
+          animation_style: '1'
+
+      - name: Commit and Push SVG
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/wave-commits.svg
+          git commit -m "Update animated wave commits SVG" || exit 0
+          git push
