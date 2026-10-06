@@ -40,8 +40,12 @@
 ### 📊 Estatísticas
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats-kappa-azure-61.vercel.app/api?username=alberijunior30&show_icons=true&theme=tokyonight&rank_icon=github&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=00BFFF&icon_color=00BFFF" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats-eight-nu-11.vercel.app/api/top-langs?username=alberijunior30&theme=tokyonight&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=00BFFF" alt="Top Languages" />
+  <img height="170" src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="Stats" />
+  <img height="170" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Linguagens" />
+</div>
+
+<div align="center">
+  <img height="170" src="./profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Perfil" />
 </div>
 
 <div align="center">
