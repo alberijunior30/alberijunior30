@@ -54,10 +54,10 @@
 
 ---
 
-### 🧽 Contribuições
+### 🌊 Contribuições
 
 <div align="center">
-  <img src="./profile/eraser-commits.svg" alt="Eraser Commits Graph" width="800" />
+  <img src="./profile/wave-commits.svg" alt="Wave Commits Graph" width="800" />
 </div>
 
 <!-- Rodapé -->
