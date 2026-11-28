@@ -398,4 +398,5 @@
   <rect class="cell" x="686" y="49" width="10" height="10" rx="2" fill="#1e293b" style="animation-delay: 3.30s;" />
   <rect class="cell" x="686" y="62" width="10" height="10" rx="2" fill="#1e293b" style="animation-delay: 3.36s;" />
   <rect class="cell" x="686" y="75" width="10" height="10" rx="2" fill="#1e293b" style="animation-delay: 3.42s;" />
+  <rect class="cell" x="686" y="88" width="10" height="10" rx="2" fill="#1e293b" style="animation-delay: 3.48s;" />
 </svg>
